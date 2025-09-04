@@ -29,3 +29,7 @@ ehthumbs.db
 !notes/
 !screenshots/
 !*.md
+
+# Development notes (never commit)
+dev_notes.md
+project_config.md

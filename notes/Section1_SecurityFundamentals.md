@@ -64,9 +64,16 @@ Demonstrate data integrity using SHA-256 hashing to verify file authenticity.
 - The hashes will be different, demonstrating that even small changes to data produce completely different hash values
 - This proves the integrity of the original data has been compromised
 
-## Screenshot Placeholder
+## Lab Results
 
-*[Insert terminal screenshot showing the hash comparison results here]*
+### Original Hash
+![Original Hash](screenshots/section1_original_hash.png)
+
+### Modified Hash  
+![Modified Hash](screenshots/section1_modified_hash.png)
+
+### Hash Comparison
+![Hash Comparison](screenshots/section1_hash_comparison.png)
 
 ## Reflection
 
