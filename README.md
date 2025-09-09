@@ -1,53 +1,42 @@
 # Security+ Labs
 
-My study and lab notes for CompTIA Security+ (SY0-701) certification preparation.
+Hands-on lab exercises for CompTIA Security+ SY0-701 certification preparation, following Professor Messer's video series.
 
-## Repository Structure
+## Completed Labs
 
-- `/notes` - Markdown notes for each Security+ section
-- `/screenshots` - Images and terminal screenshots from labs
+### Domain 1: General Security Concepts
+- ✅ **Section 1**: Hash Integrity (Video 17) - SHA-256 demonstration
+- ✅ **Section 2**: PKI & Certificates (Video 12) - Create/verify digital certificates  
+- ✅ **Section 3**: Encryption Technologies (Video 15) - AES, RSA, ECC hands-on
+- ✅ **Section 4**: Key Exchange (Video 14) - Diffie-Hellman demonstration
+- ✅ **Section 5**: Digital Signatures (Video 17) - Sign/verify documents
 
-## Progress Tracker
+### Domain 2: Threats, Vulnerabilities, and Mitigations
+- ✅ **Section 6**: SQL Injection (Video 31) - Web application vulnerability testing
+- ✅ **Section 7**: Cross-Site Scripting (Video 32) - XSS attack demonstration
 
-### Section 1: Security Fundamentals
-- [ ] CIA Triad concepts
-- [ ] AAA framework
-- [ ] Non-repudiation
-- [ ] PKI basics
-- [ ] Hash integrity lab
+## Lab Structure
 
-### Section 2: Architecture and Design
-- [ ] Security models
-- [ ] Network security
-- [ ] Cloud security
-- [ ] Zero Trust
-
-### Section 3: Implementation
-- [ ] Access controls
-- [ ] Identity management
-- [ ] Network security controls
-- [ ] Endpoint security
-
-### Section 4: Operations and Incident Response
-- [ ] Security monitoring
-- [ ] Incident response procedures
-- [ ] Digital forensics
-- [ ] Business continuity
-
-### Section 5: Governance, Risk, and Compliance
-- [ ] Risk management
-- [ ] Compliance frameworks
-- [ ] Security policies
-- [ ] Security awareness training
+Each lab includes:
+- Key concepts and theory
+- Step-by-step hands-on exercises
+- Screenshots of actual results
+- Analysis and reflection
+- Security implications
 
 ## Getting Started
 
 1. Clone this repository
-2. Navigate to the specific section you're studying
-3. Complete the hands-on labs
-4. Add your screenshots to the `/screenshots` folder
-5. Update your progress in the checklist above
+2. Follow the lab instructions in each section's markdown file
+3. Perform the hands-on exercises
+4. Review the results and analysis
 
-## Lab Environment
+## Prerequisites
 
-All labs are designed to be run on Linux systems (Ubuntu/Debian recommended) with basic command-line tools.
+- Basic command line knowledge
+- Web browser for web application labs
+- OpenSSL (usually pre-installed on Linux/macOS, available for Windows)
+
+## Notes
+
+These labs are designed for educational purposes using controlled, vulnerable environments. Always follow responsible disclosure practices and only test on systems you own or have explicit permission to test.
