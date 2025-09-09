@@ -14,6 +14,7 @@ Hands-on lab exercises for CompTIA Security+ SY0-701 certification preparation, 
 ### Domain 2: Threats, Vulnerabilities, and Mitigations
 - ✅ **Section 6**: SQL Injection (Video 31) - Web application vulnerability testing
 - ✅ **Section 7**: Cross-Site Scripting (Video 32) - XSS attack demonstration
+- ✅ **Section 8**: Buffer Overflows (Video 27) - Memory exploitation and protection
 
 ## Lab Structure
 
@@ -36,6 +37,7 @@ Each lab includes:
 - Basic command line knowledge
 - Web browser for web application labs
 - OpenSSL (usually pre-installed on Linux/macOS, available for Windows)
+- C compiler (gcc) for buffer overflow labs
 
 ## Notes
 
