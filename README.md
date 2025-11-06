@@ -5,18 +5,18 @@ Hands-on lab exercises for CompTIA Security+ SY0-701 certification preparation, 
 ## Completed Labs
 
 ### Domain 1: General Security Concepts
-- ✅ **Section 1**: Hash Integrity (Video 17) - SHA-256 demonstration
-- ✅ **Section 2**: PKI & Certificates (Video 12) - Create/verify digital certificates  
-- ✅ **Section 3**: Encryption Technologies (Video 15) - AES, RSA, ECC hands-on
-- ✅ **Section 4**: Key Exchange (Video 14) - Diffie-Hellman demonstration
-- ✅ **Section 5**: Digital Signatures (Video 17) - Sign/verify documents
+- ✅ **Section 1**: Hash Integrity - SHA-256 file verification
+- ✅ **Section 2**: PKI & Certificates - Digital certificate creation and validation
+- ✅ **Section 3**: Encryption Technologies - AES encryption and TPM key generation
+- ✅ **Section 4**: Key Exchange - Diffie-Hellman key sharing between parties
+- ✅ **Section 5**: Digital Signatures - Document signing and verification
 
 ### Domain 2: Threats, Vulnerabilities, and Mitigations
-- ✅ **Section 6**: SQL Injection (Video 31) - Web application vulnerability testing
-- ✅ **Section 7**: Cross-Site Scripting (Video 32) - XSS attack demonstration
-- ✅ **Section 8**: Buffer Overflows (Video 27) - Memory exploitation and protection
-- ✅ **Section 9**: Memory Injections (Video 26) - DLL injection techniques
-- ✅ **Section 10**: Race Conditions (Video 28) - TOCTOU attacks
+- ✅ **Section 6**: SQL Injection (Video 31) - Web app vulnerability testing with testphp.vulnweb.com
+- ✅ **Section 7**: Cross-Site Scripting (Video 32) - XSS attacks and cookie theft
+- ✅ **Section 8**: Buffer Overflows (Video 27) - C program exploitation and stack smashing
+- ✅ **Section 9**: Memory Injections (Video 26) - DLL injection and process analysis
+- ✅ **Section 10**: Race Conditions (Video 28) - TOCTOU attacks and file system vulnerabilities
 - ✅ **Section 11**: Zero-day Vulnerabilities and Malware Analysis (Videos 40-43) - Malware detection and analysis
 
 ## Lab Structure
