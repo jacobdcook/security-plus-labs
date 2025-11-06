@@ -15,6 +15,9 @@ Hands-on lab exercises for CompTIA Security+ SY0-701 certification preparation, 
 - ✅ **Section 6**: SQL Injection (Video 31) - Web application vulnerability testing
 - ✅ **Section 7**: Cross-Site Scripting (Video 32) - XSS attack demonstration
 - ✅ **Section 8**: Buffer Overflows (Video 27) - Memory exploitation and protection
+- ✅ **Section 9**: Memory Injections (Video 26) - DLL injection techniques
+- ✅ **Section 10**: Race Conditions (Video 28) - TOCTOU attacks
+- ✅ **Section 11**: Zero-day Vulnerabilities and Malware Analysis (Videos 40-43) - Malware detection and analysis
 
 ## Lab Structure
 
